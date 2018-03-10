@@ -5,6 +5,7 @@ font-size: 50px;
 }
 body {
   background-image: url(https://i.imgur.com/q78WfpO.jpg?1);
+  height: 90%
   background-repeat: no-repeat;
   background-size: cover;
 }
