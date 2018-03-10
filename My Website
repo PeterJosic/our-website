@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>My Website</title>
+
+</head>
+<body>
+
+  <h1>Welcome! I made this site so you could get to know me better, i've put on one of my favorite songs, ENJOY!</h1>
+  <link rel="stylesheet" href="./My Website.css" type="text/css">
+  <iframe width="854" height="480" src="https://www.youtube.com/embed/-aLOkTo3IpU?rel=0&autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div><h2 class= "contacts">Contact me on:</h2></div>
+<ul>
+  <li><a href="https://www.facebook.com/miha.jensterle.1" target="_blank">My Facebook Page</a></li>
+  <li>I Watch Anime#7714 (My Discord)</li>
+  <li><a href="https://steamcommunity.com/id/Mihajen/" target="_blank">My Steam Account</a></li>
+
+</ul>
+<p>Hello! I'm Miha, I come fron Slovenia and I am 13 (while making this) years old. I don't really like sports I'm more of a "tech guy". In fact this is my first website ever so go easy on the critisism ;) </p>
+<h2 class="interests" >Interests:</h2>
+<ul>
+  <li>Coding</li>
+  <li>Gaming</li>
+  <li>Engineering(kinda)</li>
+  <li>Computers</li>
+</ul>
+<p>If you haven't checked out my Facebook account yet this is what I look like:</p>
+<img src="https://scontent-frx5-1.xx.fbcdn.net/v/t1.0-9/23167637_1956078064606917_1690639784037893518_n.jpg?oh=3afec4b625a23be39e0218d6f8889648&oe=5B062E9E" alt="My Face OwO" height="240" width="200">
+
+</html>
